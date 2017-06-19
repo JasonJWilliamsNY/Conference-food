@@ -22,7 +22,7 @@ and the opinions of those who choose to contribute.
 
 ## To contribute:
 
-1. If you are familiar with Github, send a pull request.
+1. If you are familiar with Github, [edit](https://github.com/JasonJWilliamsNY/conference-food/blob/master/plantbio17.md) and send a pull request.
 2. If you are not familiar, add an [issue](https://github.com/JasonJWilliamsNY/conference-food/issues) or tweet me all about it [jasonwilliamsny](https://twitter.com/jasonwilliamsny)
 
 
