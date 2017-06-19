@@ -20,7 +20,7 @@ and the opinions of those who choose to contribute.
 |Top of Waikiki|Restaurant|American|[map](https://www.google.com/maps/place/Top+of+Waikiki/@21.278784,-157.8302103,17z/data=!3m1!4b1!4m5!3m4!1s0x7c007275ef3afeeb:0x765a3e46dceabf80!8m2!3d21.278779!4d-157.8280216)|Yes|I don't remember the food being that great; probably over-priced; interesting smells; will create a memory and nice views|@jasonwilliamsNY|Next time|
 |Your contribution here||||||||
 
-To contribute:
+## To contribute:
 
 1. If you are familiar with Github, send a pull request.
 2. If you are not familiar, add an [issue](https://github.com/JasonJWilliamsNY/conference-food/issues) or tweet me all about it [jasonwilliamsny](https://twitter.com/jasonwilliamsny)
