@@ -18,6 +18,7 @@ and the opinions of those who choose to contribute.
 |Kyung's Seafood|Restaurant|Seafood|[map](https://www.google.com/maps/place/Kyung's+Seafood+Inc/@21.2991303,-157.8447799,17z/data=!3m1!4b1!4m5!3m4!1s0x7c006de8d172747b:0x845ac1c5fe023739!8m2!3d21.2991253!4d-157.8425912)|No, but 8 min from Conv. Center|Supposed to be good!|@jasonwilliamsNY|Sure|
 |Helena's Hawaiian Food|Takeout|Hawaiian|[map](https://www.google.com/maps/place/Helena's+Hawaiian+Food/@21.3309489,-157.8672758,17z/data=!3m1!4b1!4m5!3m4!1s0x7c006e877069a3f9:0x1bbf675c61715a95!8m2!3d21.3309439!4d-157.8650871)|No|Cash only, but quite good|@jasonwilliamsNY|Why not?|
 |Top of Waikiki|Restaurant|American|[map](https://www.google.com/maps/place/Top+of+Waikiki/@21.278784,-157.8302103,17z/data=!3m1!4b1!4m5!3m4!1s0x7c007275ef3afeeb:0x765a3e46dceabf80!8m2!3d21.278779!4d-157.8280216)|Yes|I don't remember the food being that great; probably over-priced; interesting smells; will create a memory and nice views|@jasonwilliamsNY|Next time|
+|Marukame Udon|Restaurant|Japanese|[map](https://www.google.com/maps/place/Marukame+Udon/@21.2795105,-157.8281736,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xee85c5aed8448988!8m2!3d21.2795105!4d-157.8259849?hl=en)|Yes|[Highly recommended](https://twitter.com/vivekkrish/status/876960564383186945)|@vivekkrish|Vivek can't come so Jason'll have to do|
 |Your contribution here||||||||
 
 ## To contribute:
