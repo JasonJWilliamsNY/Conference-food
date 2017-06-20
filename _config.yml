@@ -21,7 +21,7 @@ github_username:  jasonjwilliamsny
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 gems:
   - jekyll-feed
 exclude:
