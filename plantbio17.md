@@ -32,7 +32,7 @@ and the opinions of those who choose to contribute.
 |Paradise Cove Luau|Luau experience|Luau|[website](https://www.paradisecove.com/)|No|Going to report back after I do this Thursday. Supposed to be very good. Don't come to HI and not go to a Luau|@jasonwilliamsNY|Yes, but I only want to sit in the Royal box|
 |24 Hour Fitness|Gym|Exercise|[map](https://www.google.com/maps/place/24+Hour+Fitness/@21.2915663,-157.8470108,15z/data=!4m5!3m4!1s0x7c006df21a74b231:0x45247fc53767cdb1!8m2!3d21.2915613!4d-157.8382561)|Yes|Right across from the convention center. If you are visiting a fraction of the things on this list, you might need it; If you are hear a while a 30-day membership may be cheaper|@jasonwilliamsNY|Yes, if you are for early-morning workouts as I am|
 |Tea Boss|Cafe|Drinks|[map](https://www.google.com/maps/place/Tea+Boss/@21.2827077,-157.8394441,15z/data=!4m5!3m4!1s0x7c006df18d22ab59:0x2835956df8eaf24c!8m2!3d21.29122!4d-157.8396587)|Yes|Yummy Boba and desserts in addition to drinks|@vivekkrish|Vivek would want you to|
-|Kona Coffee Purveyors|Cafe|Coffe/Patisserie|[map](https://www.google.com/maps/place/Kona+Coffee+Purveyors+%7C+b.+patisserie/@21.2788647,-157.8278662,17z/data=!3m1!4b1!4m5!3m4!1s0x7c00727670a87fbd:0xd03529df62e52daa!8m2!3d21.2788597!4d-157.8256775)|Yes|Delicious coffee and kouign amann (with no calories)|@jasonwilliamsNY|Yes|
+|Kona Coffee Purveyors|Cafe|Coffee/Patisserie|[map](https://www.google.com/maps/place/Kona+Coffee+Purveyors+%7C+b.+patisserie/@21.2788647,-157.8278662,17z/data=!3m1!4b1!4m5!3m4!1s0x7c00727670a87fbd:0xd03529df62e52daa!8m2!3d21.2788597!4d-157.8256775)|Yes|Delicious coffee and kouign amann (with no calories)|@jasonwilliamsNY|Yes|
 |Your contribution here||||||||
 
 ## To contribute:
