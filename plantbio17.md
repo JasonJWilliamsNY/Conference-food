@@ -34,7 +34,7 @@ and the opinions of those who choose to contribute.
 |Tea Boss|Cafe|Drinks|[map](https://www.google.com/maps/place/Tea+Boss/@21.2827077,-157.8394441,15z/data=!4m5!3m4!1s0x7c006df18d22ab59:0x2835956df8eaf24c!8m2!3d21.29122!4d-157.8396587)|Yes|Yummy Boba and desserts in addition to drinks|@vivekkrish|Vivek would want you to|
 |Kona Coffee Purveyors|Cafe|Coffee/Patisserie|[map](https://www.google.com/maps/place/Kona+Coffee+Purveyors+%7C+b.+patisserie/@21.2788647,-157.8278662,17z/data=!3m1!4b1!4m5!3m4!1s0x7c00727670a87fbd:0xd03529df62e52daa!8m2!3d21.2788597!4d-157.8256775)|Yes|Delicious coffee and kouign amann (with no calories)|@jasonwilliamsNY|Yes|
 |Maui Brewing Company|Brew Pub|Local Beers|[map](https://www.google.com/maps/place/Maui+Brewing+Co.+Waikiki/@21.2782519,-157.8295257,17z/data=!3m1!4b1!4m5!3m4!1s0x7c007275dfca067b:0x8c6eeed2c6520ff9!8m2!3d21.2782519!4d-157.827337)|Yes|Excellent on-tap beers. Been here for breakfast as well and food is good|@jasonwilliamsNY|Yes|
-|Yard House|Sports Bar|Beer and more beer|[map](https://www.google.com/maps/place/Yard+House/@21.2790768,-157.833519,17z/data=!3m1!4b1!4m5!3m4!1s0x7c0072757ba6dcc7:0xa4e1ce39c721fa7b!8m2!3d21.2790768!4d-157.8313303)|Yes|This is a chain, but selection is good and its right next to my hotel|@JasonJWilliamsNY|Yes|
+|Yard House|Sports Bar|Beer and more beer|[map](https://www.google.com/maps/place/Yard+House/@21.2790768,-157.833519,17z/data=!3m1!4b1!4m5!3m4!1s0x7c0072757ba6dcc7:0xa4e1ce39c721fa7b!8m2!3d21.2790768!4d-157.8313303)|Yes|This is a chain, but selection is good and its right next to my hotel|@jasonjwilliamsNY|Yes|
 |Your contribution here||||||||
 
 ## To contribute:
