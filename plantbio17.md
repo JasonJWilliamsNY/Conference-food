@@ -40,7 +40,6 @@ and the opinions of those who choose to contribute.
 | Kenkoya| Restaurant| Sushi| [map](https://www.google.com/maps/place/Kenko+Ya/@21.4221261,-157.8058712,17z/data=!3m1!4b1!4m5!3m4!1s0x7c006afa1be5a5b7:0xa6240fdb6fe405f4!8m2!3d21.4221261!4d-157.8036771)|No| This is a small neighborhood restaurant in Kaneohe that we like for sushi| @maliadong|Yes|
 | Nico's Pier 38| Restaurant| Seafood| [map](https://www.google.com/maps/place/Nico's+Pier+38/@21.3174652,-157.8796232,17z/data=!3m1!4b1!4m5!3m4!1s0x7c006e45afcba457:0xdd7fb6d4f5a650e1!8m2!3d21.3174652!4d-157.8774291)| No| This place is on the pier and started off as a hole in the wall, but has expanded because the food is good| @maliadong| Yes|
 | Shirokiya's| Japanese Village| Cheap Drinks| [map](https://www.google.com/maps/place/Shirokiya+Japan+Village+Walk/@21.292057,-157.8479791,17z/data=!3m2!4b1!5s0x7c006df06800f5bd:0x7edf0a3a437db9d5!4m5!3m4!1s0x7c006df045a36271:0xc32f4e283f2349fa!8m2!3d21.292057!4d-157.845785) | Yes| Located at Alamoana Shopping Center, $1.00 Beer at the Beer Garden| @maliadong| Yes|
-
 |Your contribution here||||||||
 
 ## To contribute:
